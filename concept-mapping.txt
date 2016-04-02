@@ -87,7 +87,6 @@
 ## Forms
 ### Bound form
 
-* `form.has_changed` method ??
-* Uses the `form.changed_data` attribute ??
+* `form.has_changed` method
+* Uses the `form.changed_data` attribute
 * Uses the `form.cleaned_data` attribute
-* `BoundField.data` attribute ??
