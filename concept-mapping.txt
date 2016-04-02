@@ -1,0 +1,11 @@
+# Construction
+
+# Existing data input
+
+# New data input
+
+# Validation / data processing
+
+# Rendering
+
+# Data output
