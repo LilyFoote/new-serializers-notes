@@ -76,8 +76,8 @@
 
 ### Bound form
 * Uses the `form.errors` attribute
-** `form.errors.as_data` method
-** `form.errors.as_json` method
+ * `form.errors.as_data` method
+ * `form.errors.as_json` method
 * `form.has_error` method
 * `form.non_field_errors` method
 * `form.has_changed` method ??
