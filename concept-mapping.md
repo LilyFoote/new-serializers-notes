@@ -24,6 +24,10 @@
 * `modelformset_factory` function
 * `inlineformset_factory` function
 
+## Formset Functions
+
+* `formset_factory` function
+
 # Existing data input
 ## Forms
 ### Unbound form
@@ -201,6 +205,10 @@
  * `widgets`
  * `labels`
  * `help_texts`
+
+## Formset Functions
+
+* `formset_factory` function
 
 # Data output
 ## Forms
