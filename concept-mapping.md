@@ -10,6 +10,20 @@
 
 * `Field.required` attribute/parameter
 
+## Model Form Functions
+
+* `modelform_factory` function
+ * `fields`
+ * `exclude`
+ * `formfield_callback`
+ * `localized_fields`
+ * `labels`
+ * `help_texts`
+ * `error_messages`
+ * `field_classes`
+* `modelformset_factory` function
+* `inlineformset_factory` function
+
 # Existing data input
 ## Forms
 ### Unbound form
@@ -180,6 +194,13 @@
 * `to_field_name` parameter to `ModelChoiceField`
 * `ModelChoiceField.label_from_instance` method
 * `ModelMultipleChoiceField.label_from_instance` method
+
+## Model Form Functions
+
+* `modelform_factory` function
+ * `widgets`
+ * `labels`
+ * `help_texts`
 
 # Data output
 ## Forms
