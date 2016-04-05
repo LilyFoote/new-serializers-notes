@@ -60,6 +60,11 @@
 * `Field.localize` attribute/parameter
 * `Field.disabled` attribute/parameter
 
+## Widgets
+
+* `MultiWidget.decompress` method
+* `Widget.value_from_datadict` method
+
 # Validation / data processing
 ## Forms
 ### Bound form
